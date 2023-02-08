@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box
+}
+
+body {
+    background-color: rgb(255, 229, 163);
+}
+
+header {
+    background-color: aquamarine;
+    text-align: center;
+}
+
+.alturauno {
+    height: 10vh;
+}
+
+.alturados {
+    height: 10vh;
+}
+
+.alturatres {
+    height: 70vh;
+}
+
+.alturacuatro {
+    height: 55vh;
+}
+
+
+nav {
+    background-color: rgb(224, 188, 250);
+    text-align: center;
+}
+
+section {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    background-color: darkslateblue;
+    width: 70rem;
+}
+
+article {
+    background-color: rgb(240, 92, 92);
+}
+
+aside {
+    background-color: salmon;
+}
+
+footer {
+    background-color: violet;
+    text-align: center;
+}
